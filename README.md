@@ -18,25 +18,22 @@
 
 
 
-
-<h3 align="center">A Full stack web developer</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudrant-joshi&label=Profile%20views&color=0e75b6&style=flat" alt="rudrant-joshi" /> </p>
 
 ## 👨‍💻 About Me
 
-- 🌱 I’m currently learning **MERN STACK**
+B.Tech Information Technology | Full-Stack Web Developer
 
-- 💬 Ask me about **Web Development**
-
-- 📫 Reach me at **rudrant.joshi@gmail.com**
-
-- ⚡ Fun fact **Ready to innovate**
+🚀 Passionate about building scalable, user-centric web applications <br>
+💡 Strong interest in both frontend and backend development<br>
+🛠️ Skilled in modern web technologies and frameworks<br>
+📚 Continuously learning and exploring new tools in the tech ecosystem<br>
+🤝 Open to collaboration, internships, and real-world projects
 
 
 <br>
 
-## ✨ Languages and Tools :
+## ✨ Tech Stack:
 ### 🛠️ Programming Languages
 ![C](https://skillicons.dev/icons?i=c)
 ![C++](https://skillicons.dev/icons?i=cpp)
@@ -70,7 +67,7 @@
 
 <br>
 
-## Connect with me: 
+## 🔗  Connect with me: 
 
 <p align="left">
   <a href="https://instagram.com/rudrant.joshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rudrant.joshi" height="30" width="40" /></a>
