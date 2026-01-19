@@ -71,7 +71,7 @@
 
 ## 🔗  Connect with me: 
 
-<p align="left">
+<p align="CENTER">
   <a href="https://instagram.com/rudrant.joshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rudrant.joshi" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/rudrant-joshi-0bb670326/" 
   target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rudrant joshi" height="30" width="40" /></a>
