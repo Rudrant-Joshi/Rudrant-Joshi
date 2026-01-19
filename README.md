@@ -29,7 +29,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **rudrant.joshi@gmail.com**
+- 📫 Reach me at **rudrant.joshi@gmail.com**
 
 - ⚡ Fun fact **Ready to innovate**
 
