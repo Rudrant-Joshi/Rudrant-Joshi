@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-B.Tech Information Technology | Full-Stack Web Developer
+<strong> B.Tech Information Technology | Full-Stack Web Developer </strong>
 
 🚀 Passionate about building scalable, user-centric web applications <br>
 💡 Strong interest in both frontend and backend development<br>
