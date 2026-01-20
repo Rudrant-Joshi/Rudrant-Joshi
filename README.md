@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 <div align="center">
 <pre>
 <span> █████╗   ██╗   ██╗ ██████╗  ██████╗   █████╗  ███╗   ██╗ ████████╗ </span>
